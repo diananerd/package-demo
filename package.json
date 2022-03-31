@@ -1,0 +1,24 @@
+{
+  "name": "@diananerd/package-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nerddiana/package-demo.git"
+  },
+  "keywords": [
+    "demo",
+    "package",
+    "npm"
+  ],
+  "author": "Diana Marínez <diananerdoficial@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nerddiana/package-demo/issues"
+  },
+  "homepage": "https://github.com/nerddiana/package-demo#readme"
+}
